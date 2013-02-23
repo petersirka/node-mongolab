@@ -1,0 +1,21 @@
+{
+    "name": "partial-mongolab",
+    "version": "1.1.1",
+    "description": "Simple MongoDB REST client for MongoLab.com",
+    "main": "./index.js",
+    "keywords": [ "mongodb", "database", "web", "mongolab", "REST"],
+    "engines": {
+        "node": "*"
+    },
+    "readmeFilename": "readme.md",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/petersirka/node-mongolab.git"
+    },
+    "author": {
+        "name": "Peter Širka"
+    }
+}
