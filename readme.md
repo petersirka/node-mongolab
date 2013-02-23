@@ -1,5 +1,5 @@
-Simple node MongoDB REST client for MongoLab.com
-================================================
+Simple node.js MongoDB REST client for MongoLab.com
+===================================================
 
 - [MongoLab](http://www.mongolab.com) MongoDB-as-a-Service
 - Best use of [www.partialjs.com](http://partialjs.com)
