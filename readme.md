@@ -2,18 +2,19 @@ Simple node.js MongoDB REST client for MongoLab.com
 ===================================================
 
 - [MongoLab](http://www.mongolab.com) MongoDB-as-a-Service
-- Best use of [www.partialjs.com](http://partialjs.com)
+- [partial.js / Web application framework for node.js](http://partialjs.com)
+- [node.js NoSQL embedded database](https://github.com/petersirka/nosql)
 
 ***
 
-## NPM partial-mongolab
+## NPM mongolab
 
 - create on your desktop empty directory with name: website
 - open terminal and find this directory: cd /Desktop/website/
 - write and run on terminal:
 
 ```text
-$ npm install partial-mongolab
+$ npm install mongolab
 ```
 
 ## Methods
@@ -32,7 +33,7 @@ MongoDB(database, key);
     @key {String} :: get your key from https://mongolab.com/user?username=[username]
     return {MongoDB};
 */
-require('partial.js/mongodb').init(database, key);
+require('mongolab').init(database, key);
  
 /*
     All collection in database
