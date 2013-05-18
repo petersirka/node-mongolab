@@ -14,7 +14,7 @@ Simple node.js MongoDB REST client for MongoLab.com
 - write and run on terminal:
 
 ```text
-$ npm install mongolab
+$ npm install mongolab-provider
 ```
 
 ## Methods

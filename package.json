@@ -1,5 +1,5 @@
 {
-    "name": "mongolab",
+    "name": "mongolab-provider",
     "version": "1.1.1",
     "description": "Simple MongoDB REST client for MongoLab.com",
     "main": "./index.js",
